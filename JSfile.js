@@ -24,7 +24,7 @@ document.getElementById("name").innerHTML  = Name + '<br>' + jTitle ;
 
 document.getElementById("intro").innerHTML = Intro ;
 
-document.getElementById("skillExp").innerHTML = Skills + '<br<br><br' + Experiences ;
+document.getElementById("skillExp").innerHTML = Skills + '<br<br><br>' + Experiences ;
 
 document.getElementById("contact").innerHTML = email;
 
