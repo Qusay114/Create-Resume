@@ -1,0 +1,59 @@
+body
+{
+    font-family: cursive;
+}
+
+header
+{
+    margin-top:20px;
+    background-color:#26001b;
+    color:#ff005c;
+    height:150px;
+    width:100%;
+
+
+}
+
+header div
+{
+    text-align: center;
+    padding-top: 25px;
+    font-size:30px;
+    
+}
+
+
+main
+{
+    display: flex;
+}
+
+#leftSide
+{
+    display: inline;
+    background-color:#ff005c;
+    color:#26001b;
+    height:330px;
+    width:30%;
+    font-size:20px;
+    padding-top:10px;
+    padding-left:20px;
+}
+
+
+#rightSide
+{
+    display: inline;
+    background-color:#fff600;
+    color:#26001b;
+    height:330px;
+    width:70%;
+    
+}
+
+#rightSide div
+{
+    font-size:20px;
+    padding-top:10px;
+    padding-left:20px;
+}
