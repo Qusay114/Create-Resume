@@ -20,7 +20,7 @@ var skills = "";
 
 for(var i = 0; i<skillNumber; i++)
 { 
-    skills =   skills + prompt("Enter a skill") +"<br>";
+    skills =   skills + "-" + prompt("Enter a skill") +"<br>";
 }
     
 
